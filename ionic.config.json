@@ -1,0 +1,7 @@
+{
+  "name": "fezComic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
